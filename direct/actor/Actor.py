@@ -1,4 +1,4 @@
-# File: d (Python 2.4)
+# File: a (Python 2.4)
 
 __all__ = [
     'Actor']
